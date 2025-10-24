@@ -1,0 +1,436 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "id": 1,
+    "description": "A short-video platform that allows users to create and share 15-second videos on any topic.",
+    "size": 200,
+    "reviews": 1000000,
+    "ratingAvg": 4.7,
+    "downloads": 773000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 300000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 2,
+    "description": "A photo and video-sharing social networking service where users can upload media.",
+    "size": 150,
+    "reviews": 800000,
+    "ratingAvg": 4.6,
+    "downloads": 759000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 160000 },
+      { "name": "4 star", "count": 320000 },
+      { "name": "5 star", "count": 240000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1633354931133-27ac1ee5d853?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
+    "id": 3,
+    "description": "A freeware, cross-platform messaging and Voice over IP (VoIP) service.",
+    "size": 100,
+    "reviews": 1200000,
+    "ratingAvg": 4.8,
+    "downloads": 270000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 240000 },
+      { "name": "5 star", "count": 180000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1678993437662-d6acc3bf4d5d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "title": "Telegram",
+    "companyName": "Telegram Messenger LLP",
+    "id": 4,
+    "description": "A cloud-based instant messaging, video telephony, and VoIP service.",
+    "size": 120,
+    "reviews": 900000,
+    "ratingAvg": 4.5,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://plus.unsplash.com/premium_photo-1668902221464-402993a500ce?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=880",
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "id": 5,
+    "description": "A video editing app that allows users to create and edit videos with various effects.",
+    "size": 80,
+    "reviews": 700000,
+    "ratingAvg": 4.6,
+    "downloads": 230000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1679094837433-32484a621c74?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1332",
+    "title": "YouTube",
+    "companyName": "Google",
+    "id": 6,
+    "description": "A video sharing platform where users can watch, like, share, comment, and upload their own videos.",
+    "size": 250,
+    "reviews": 1500000,
+    "ratingAvg": 4.7,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1611339555312-e607c8352fd7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1074",
+    "title": "Spotify",
+    "companyName": "Spotify Technology",
+    "id": 7,
+    "description": "A digital music service that gives you access to millions of songs and podcasts.",
+    "size": 180,
+    "reviews": 1100000,
+    "ratingAvg": 4.6,
+    "downloads": 130000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1678329885854-12e95fe12e4f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1228",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 8,
+    "description": "A streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more.",
+    "size": 300,
+    "reviews": 1300000,
+    "ratingAvg": 4.8,
+    "downloads": 120000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1689360699733-f7c6e2cc6495?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1228",
+    "title": "Audible",
+    "companyName": "Amazon",
+    "id": 9,
+    "description": "An audiobook and podcast service that allows users to purchase and stream audiobooks and other forms of spoken word content.",
+    "size": 120,
+    "reviews": 800000,
+    "ratingAvg": 4.7,
+    "downloads": 110000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Canva_logo_2023.png",
+    "title": "Canva",
+    "companyName": "Canva",
+    "id": 10,
+    "description": "A graphic design platform used to create social media graphics, presentations, posters, documents, and other visual content.",
+    "size": 150,
+    "reviews": 900000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 90000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Adobe_Photoshop_Express_logo_2023.png",
+    "title": "Adobe Photoshop Express",
+    "companyName": "Adobe Inc.",
+    "id": 11,
+    "description": "A photo editing app that allows users to enhance and transform their photos with various tools and filters.",
+    "size": 100,
+    "reviews": 600000,
+    "ratingAvg": 4.5,
+    "downloads": 90000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/LinkedIn_Logo.svg",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
+    "id": 12,
+    "description": "A professional networking platform to connect, share content, and find jobs.",
+    "size": 120,
+    "reviews": 500000,
+    "ratingAvg": 4.4,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 18000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Slack_Icon_2019.svg",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "id": 13,
+    "description": "A messaging app for teams to collaborate and communicate efficiently.",
+    "size": 90,
+    "reviews": 400000,
+    "ratingAvg": 4.5,
+    "downloads": 60000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Dropbox_logo_2015.svg",
+    "title": "Dropbox",
+    "companyName": "Dropbox",
+    "id": 14,
+    "description": "A cloud storage service to store, share, and collaborate on files securely.",
+    "size": 100,
+    "reviews": 350000,
+    "ratingAvg": 4.4,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 16000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Trello_Logo.svg",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "id": 15,
+    "description": "A project management tool that helps teams organize tasks and collaborate.",
+    "size": 80,
+    "reviews": 300000,
+    "ratingAvg": 4.5,
+    "downloads": 45000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Zoom_Communications_Logo.svg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 16,
+    "description": "A video conferencing platform for meetings, webinars, and chat.",
+    "size": 150,
+    "reviews": 900000,
+    "ratingAvg": 4.7,
+    "downloads": 120000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Google_Maps_icon_%282014-2020%29.png",
+    "title": "Google Maps",
+    "companyName": "Google",
+    "id": 17,
+    "description": "A navigation app with real-time GPS, traffic, and transit information.",
+    "size": 200,
+    "reviews": 1000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 250000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Google_Chrome_icon_%282011%29.png",
+    "title": "Google Chrome",
+    "companyName": "Google",
+    "id": 18,
+    "description": "A fast, secure, and free web browser built for the modern web.",
+    "size": 150,
+    "reviews": 950000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 160000 },
+      { "name": "5 star", "count": 120000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Firefox_browser_logo_2021.png",
+    "title": "Firefox",
+    "companyName": "Mozilla",
+    "id": 19,
+    "description": "A fast, privacy-focused web browser with extensive customization.",
+    "size": 140,
+    "reviews": 700000,
+    "ratingAvg": 4.5,
+    "downloads": 250000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Snapchat_logo.svg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 20,
+    "description": "A multimedia messaging app for sending photos, videos, and messages that disappear.",
+    "size": 90,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/WhatsApp_Business_Logo.svg",
+    "title": "WhatsApp Business",
+    "companyName": "Meta Platforms",
+    "id": 21,
+    "description": "A business version of WhatsApp to communicate with customers and manage orders.",
+    "size": 110,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": 200000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Google_Drive_logo.png",
+    "title": "Google Drive",
+    "companyName": "Google",
+    "id": 22,
+    "description": "A cloud storage service that allows you to save files, photos, and videos online and access them from anywhere.",
+    "size": 180,
+    "reviews": 800000,
+    "ratingAvg": 4.7,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Notion_app_logo.png",
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "id": 23,
+    "description": "An all-in-one workspace for notes, tasks, databases, and collaboration.",
+    "size": 150,
+    "reviews": 600000,
+    "ratingAvg": 4.5,
+    "downloads": 250000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 10000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 40000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Adobe_Acrobat_logo_2023.png",
+    "title": "Adobe Acrobat Reader",
+    "companyName": "Adobe Inc.",
+    "id": 24,
+    "description": "A free PDF reader and editor that allows viewing, printing, and annotating PDFs.",
+    "size": 100,
+    "reviews": 700000,
+    "ratingAvg": 4.6,
+    "downloads": 300000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  }
+]
+ 
+   
