@@ -8,7 +8,7 @@ const useApp =()=>{
 
     useEffect(()=>{
         setLoading(true)
-        axios("../appData.json").then(data => setApps(data.data))
+        axios("/appData.json").then(data => setApps(data.data))
         .catch(err => setError(err))
         .finally(()=>setLoading(false))
     },[])

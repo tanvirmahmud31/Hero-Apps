@@ -7,13 +7,13 @@ import useApp from '../../Hooks/useApp';
 import AppCard from '../../Componentes/AppCard/AppCard';
 
 const Home = () => {
-    const { apps } = useApp();  
+    const { apps } = useApp();
 
     const appFeture = apps.slice(0, 8);
     return (
         <div className="flex flex-col">
 
-         
+
             <section className='bg-[#D2D2D2] text-center flex flex-col justify-center items-center pt-8 px-4'>
                 <h1 className='text-3xl sm:text-4xl md:text-5xl font-bold mt-4'>
                     We Build <br />
@@ -29,17 +29,32 @@ const Home = () => {
                 </p>
 
                 <div className="flex flex-col sm:flex-row justify-center gap-4 mb-10 w-full max-w-md">
-                    <NavLink to="/">
+
+                    <a
+                        href="https://play.google.com/store/games?hl=en"
+                        target="_blank"
+                        rel="noopener noreferrer"
+
+                    >
                         <button className="btn btn-outline font-bold flex items-center gap-2 w-full sm:w-auto justify-center">
                             <IoLogoGooglePlaystore /> Google Play
                         </button>
-                    </NavLink>
 
-                    <NavLink to="/">
+                    </a>
+
+                    <a
+                        href="https://www.apple.com/app-store/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+
+                    >
                         <button className="btn btn-outline font-bold flex items-center gap-2 w-full sm:w-auto justify-center">
                             <FaAppStoreIos /> App Store
                         </button>
-                    </NavLink>
+
+                    </a>
+
+
                 </div>
 
                 <div className='w-full flex justify-center'>
@@ -51,7 +66,7 @@ const Home = () => {
                 </div>
             </section>
 
-           
+
             <section className='bg-linear-to-r from-[#632EE3] to-[#9F62F2] p-10 sm:p-20'>
                 <h1 className='text-center text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-10'>
                     Trusted by Millions, Built for You
