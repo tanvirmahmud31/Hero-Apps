@@ -1,12 +1,14 @@
 import React from 'react';
 import download from '../../assets/icon-downloads.png';
 import rating from '../../assets/icon-ratings.png';
+import { NavLink } from 'react-router';
 
 const AppCard = ({ app }) => {
-    const { image, title, downloads, ratingAvg } = app;
+    const { image, title, downloads, ratingAvg,id } = app;
 
     return (
-        <div className="card bg-base-100 shadow-md w-11/12 mx-auto transition hover:shadow-lg">
+       <NavLink to={`/appDetails/${id}`}>
+             <div className="card bg-base-100 shadow-md w-11/12 mx-auto transition hover:shadow-lg">
             <figure className="w-full h-50 overflow-hidden">
                 <img
                     className="w-full h-full "
@@ -33,6 +35,8 @@ const AppCard = ({ app }) => {
                 </div>
             </div>
         </div>
+
+       </NavLink>
     );
 };
 

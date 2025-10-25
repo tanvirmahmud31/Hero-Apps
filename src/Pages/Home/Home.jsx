@@ -7,17 +7,17 @@ import useApp from '../../Hooks/useApp';
 import AppCard from '../../Componentes/AppCard/AppCard';
 
 const Home = () => {
-    const { apps } = useApp();  // use the correct name
+    const { apps } = useApp();  
 
     const appFeture = apps.slice(0, 8);
     return (
         <div className="flex flex-col">
 
-            {/* Hero Section */}
+         
             <section className='bg-[#D2D2D2] text-center flex flex-col justify-center items-center pt-8 px-4'>
                 <h1 className='text-3xl sm:text-4xl md:text-5xl font-bold mt-4'>
                     We Build <br />
-                    <span className="bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
+                    <span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
                         Productive
                     </span> Apps
                 </h1>
@@ -51,8 +51,8 @@ const Home = () => {
                 </div>
             </section>
 
-            {/* Stats Section */}
-            <section className='bg-gradient-to-r from-[#632EE3] to-[#9F62F2] p-10 sm:p-20'>
+           
+            <section className='bg-linear-to-r from-[#632EE3] to-[#9F62F2] p-10 sm:p-20'>
                 <h1 className='text-center text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-10'>
                     Trusted by Millions, Built for You
                 </h1>
@@ -90,7 +90,7 @@ const Home = () => {
                 </div>
                 <div className="flex justify-center mt-6 mb-6">
                     <NavLink to={'/apps'}>
-                        <button className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] text-white '>Show All</button>
+                        <button className='btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-white '>Show All</button>
                     </NavLink>
                 </div>
 
